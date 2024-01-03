@@ -1,7 +1,8 @@
 {
   //Oggetti
 
-  "item.rwrk.void_ore": "Minerale di Vuoto",
+  "item.rwrk.void_crystal": "Cristallo di Vuoto",
+  "item.rwrk.wardens_larynx": "Laringe di Warden",
 
   //Armatura
 

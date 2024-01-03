@@ -15,8 +15,14 @@ public class RwrkItems {
 
     //Oggetti vari
 
-    public static final RegistryObject<Item> VOID_ORE = ITEMS.register("void_ore", () -> new Item(new Item.Properties()
+
+    //Cristallo di Vuoto
+    public static final RegistryObject<Item> VOID_CRYSTAL = ITEMS.register("void_crystal", () -> new Item(new Item.Properties()
             .rarity(Rarity.EPIC)));
+
+    //Laringe del Warden
+    public static final RegistryObject<Item> WARDENS_LARYNX = ITEMS.register("wardens_larynx",() -> new Item(new Item.Properties()
+                    .rarity(Rarity.EPIC)));
 
 
     //Armature
